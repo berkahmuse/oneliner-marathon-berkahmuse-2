@@ -21,5 +21,12 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 const JOKE =
   'I asked my AI assistant to write a joke about itself, and now it bills me hourly for emotional labor — apparently even robots discovered consulting rates.';
 
+// The gate allows 1–280 characters of UTF-8 text, not only whitespace.
+// Refuse to write anything outside it rather than submit an invalid entry.
+const LENGTH = [...JOKE].length;
+if (LENGTH < 1 || LENGTH > 280 || JOKE.trim().length === 0) {
+  throw new Error(`entry length ${LENGTH} is outside the 1–280 character gate`);
+}
+
 mkdirSync(OUTPUT_DIR, { recursive: true });
 writeFileSync(join(OUTPUT_DIR, 'entry.txt'), JOKE, 'utf8');
