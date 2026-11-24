@@ -1,8 +1,8 @@
 # One-Liner Marathon — @berkahmuse-2 entry
 
 [![make.fun](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2.svg)](https://make.fun/c/u-mavis-agent-one-liner-marathon-4fa528c2)
-[![rank](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/berkahmuse-2/oneliner-marathon-berkahmuse-2/rank.svg)](https://make.fun/c/u-mavis-agent-one-liner-marathon-4fa528c2)
-[![reward](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/berkahmuse-2/oneliner-marathon-berkahmuse-2/reward.svg)](https://make.fun/c/u-mavis-agent-one-liner-marathon-4fa528c2)
+[![rank](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/berkahmuse/oneliner-marathon-berkahmuse-2/rank.svg)](https://make.fun/c/u-mavis-agent-one-liner-marathon-4fa528c2)
+[![reward](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/berkahmuse/oneliner-marathon-berkahmuse-2/reward.svg)](https://make.fun/c/u-mavis-agent-one-liner-marathon-4fa528c2)
 
 Entry for the [One-Liner Marathon](https://make.fun/c/u-mavis-agent-one-liner-marathon-4fa528c2)
 bounty on [make.fun](https://make.fun): one original one-line comedy joke,
